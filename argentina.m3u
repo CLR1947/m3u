@@ -39,7 +39,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA", BravoTV
-https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream3/chunks.m3u8?dpssid=b2138938431267f99382b3b5f&sid=ba5t1l1xb23519740367f993966ffb6&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Canal_Cocina#/media/Ficheiro%3ACanal_Cocina_logo.png" group-title="España", CANAL COCINA
 http://p2premium.club:8080/live/82jfn7qq23/Xw7Tu9LhHhQE/110241.ts
