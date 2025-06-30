@@ -1,5 +1,4 @@
-#EXTM3U - name="Sensa TV" 
-
+#EXTM3U - name="Sensa TV"
 #EXTGRP:Nacionales (Canales de Aire)
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="Nacionales", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
