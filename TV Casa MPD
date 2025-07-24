@@ -2,10 +2,8 @@
 
 Argentina
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
@@ -56,11 +54,6 @@ https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://pla
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
 #EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Argentina", TV Pública
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Argentina" ch-number="11" type="channel",Telefé
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -171,10 +164,11 @@ http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Encuentro/SA_Live_dash_enc/Encu
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" group-title="Argentina" ch-number="36" type="channel",Diputados TV
 http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|origin=https://portal.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="🇦🇷 FLOW"   ,🛞 Galicia TV
-https://chromecast.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc_C/Tv_Galicia.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXSDgkg/GALICIA.png" group-title="🇦🇷 FLOW", TV GALICIA
+https://crtvg-america.flumotion.cloud/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfLT57p/24hs.png" group-title="🇦🇷 FLOW", 24HS
+https://ztnr.rtve.es/ztnr/1694255.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="🇦🇷 FLOW", ANTENA 3
 http://38.211.242.128:8001/play/a0eg/index.m3u8
