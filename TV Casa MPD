@@ -170,8 +170,10 @@ https://crtvg-america.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfLT57p/24hs.png" group-title="🇦🇷 FLOW", 24HS
 https://ztnr.rtve.es/ztnr/1694255.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="🇦🇷 FLOW", ANTENA 3
-http://38.211.242.128:8001/play/a0eg/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="🇦🇷 FLOW"  ,🛞  Antena 3 Internacional
+https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd
 
 Deportes
 
@@ -1588,3 +1590,4 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae0
 
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="635" tvg-logo="https://i.pinimg.com/736x/d3/f9/99/d3f999a8c1fec9642748cedd54e3dd94.jpg" group-title="Pluto TV", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
