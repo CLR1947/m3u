@@ -1507,23 +1507,6 @@ http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Telesur/SA_Live_dash_enc/Telesu
 #EXTINF:-1 tvg-id="TVE.uy" tvg-name="TVE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo" ch-number="623" type="channel",TVE
 http://vps-4729499-x.dattaweb.com/flo/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|origin=https://portal.app.flow.com.ar
 
-Adultos
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto" ch-number="1000" type="channel",Playboy TV (18+)
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|origin=https://portal.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-#EXTINF:-1 tvg-id="Sextreme.br.uy" tvg-name="Sextreme (18+)" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="Adulto" ch-number="1001" type="channel",Sextreme (18+)
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|origin=https://portal.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-#EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|origin=https://portal.app.flow.com.ar
-
 Noticias
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1559,7 +1542,7 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://playe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
 #EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="Nacionales", El nueve
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
 mundiales e internacionales
 
@@ -1590,4 +1573,5 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae0
 
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="635" tvg-logo="https://i.pinimg.com/736x/d3/f9/99/d3f999a8c1fec9642748cedd54e3dd94.jpg" group-title="Pluto TV", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
 
