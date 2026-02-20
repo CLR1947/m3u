@@ -883,28 +883,6 @@ https://lilac01.pontiscloud.com/output/SMT1/BLBD/output.mpd?|referer=https://web
 https://lilac01.pontiscloud.com/output/SMT7/VtxD/output.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 
-
-religión (490xx)
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 group-title="Religión" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/160/160/0/0/4012387807349.png", Canal Luz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/160/160/0/0/231984100764.png" group-title="Religión", EWTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 group-title="Religión" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/160/160/0/0/37747274077987.png", Radio María TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/bpk-tv/RadioMaria/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-
 mundiales e internacionales
 
 
