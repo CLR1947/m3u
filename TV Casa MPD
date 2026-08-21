@@ -26,14 +26,11 @@ http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png", C5N
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" , Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Otros/Extras y Radios" tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" , Argentinisima Satelital 
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 # General
 
@@ -41,10 +38,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png", El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://138.59.227.20:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9 
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png", TV Publica
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -55,28 +55,56 @@ https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://i.imgur.com/TLM592m.png", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="Musica" tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png", Metro
+#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png", Metro
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="🇦🇷 FLOW"  ,⚽ GarageTV
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="General/Abierta", GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-# Otros/Extras y Radios
 
 #EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo Internacional 
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Música", Cumbia Argentina
+# Deportes
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/60/40/0/0/71306601073189.png" group-title="Deportes", ESPN
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
+http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes", TyC Sports
+http://138.59.227.20:8000/play/a06x/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="Deportes", FOX Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png" group-title="Deportes", TNT Sports
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+# España
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="España", Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="España", TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
+http://dalive.site:8080/live/ZONATV19334/8WZUC6pcu2/138499.ts
+
+# Entretenimiento
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" group-title="Entretenimiento", El Gourmet
+http://138.59.227.20:8000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Entretenimiento" tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" , Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Entretenimiento", Cumbia Argentina
 https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Señal de Prueba" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1920px-Cartoon_Network_HD_logo.svg.png", Señal de Prueba
-http://38.44.109.41:8003/play/a0ef/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-
-#EXTINF:-1 tvg-id="0967" tvg-name="El Rincón de los Simpsons" group-title="Otros/Extras y Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png", El Rincón de los Simpsons
+#EXTINF:-1 tvg-id="0967" tvg-name="El Rincón de los Simpsons" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png", El Rincón de los Simpsons
 https://live20.bozztv.com/giatvplayout7/giatv-211492/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Entretenimiento" tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" , Argentinisima Satelital 
+https://stream1.sersat.com/hls/argentinisima.m3u8
