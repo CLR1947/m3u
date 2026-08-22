@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Argentina12" tvg-logo="https://pagina12.com.ar" group-title="Noticias", Argentina 12
-https://vercel.app
+#EXTINF:-1 tvg-id="Argentina12" group-title="Noticias", Argentina 12
+https://youtube.com
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://worldvectorlogo.com" group-title="Noticias", TN (Todo Noticias)
-https://vercel.app
+#EXTINF:-1 tvg-id="TN" group-title="Noticias", TN (Todo Noticias)
+https://youtube.com
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://wikimedia.org" group-title="Noticias", C5N
-https://vercel.app
+#EXTINF:-1 tvg-id="C5N" group-title="Noticias", C5N
+https://youtube.com
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://wikimedia.org" group-title="Noticias", A24
-https://vercel.app
+#EXTINF:-1 tvg-id="A24" group-title="Noticias", A24
+https://youtube.com
 
-#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://wikimedia.org" group-title="Noticias", Crónica TV
-https://vercel.app
+#EXTINF:-1 tvg-id="Cronica" group-title="Noticias", Crónica TV
+https://youtube.com
 
-#EXTINF:-1 tvg-id="LNPlus" tvg-logo="https://wikimedia.org" group-title="Noticias", LN+ (La Nación más)
-https://vercel.app
+#EXTINF:-1 tvg-id="LNPlus" group-title="Noticias", LN+ (La Nación más)
+https://youtube.com
