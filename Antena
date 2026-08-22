@@ -1,18 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Argentina12" group-title="Noticias", Argentina 12
-https://youtube.com
-
-#EXTINF:-1 tvg-id="TN" group-title="Noticias", TN (Todo Noticias)
-https://youtube.com
-
-#EXTINF:-1 tvg-id="C5N" group-title="Noticias", C5N
-https://youtube.com
-
-#EXTINF:-1 tvg-id="A24" group-title="Noticias", A24
-https://youtube.com
-
-#EXTINF:-1 tvg-id="Cronica" group-title="Noticias", Crónica TV
-https://youtube.com
-
-#EXTINF:-1 tvg-id="LNPlus" group-title="Noticias", LN+ (La Nación más)
-https://youtube.com
+#EXTINF:-1, Video de YouTube
+https://www.youtube.com/watch?v=21UP3XoRIBU.m3u
