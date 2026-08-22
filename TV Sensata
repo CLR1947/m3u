@@ -38,7 +38,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png", El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8|referrer=https://vodgc.net
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9 
 http://138.59.227.20:8000/play/a08k/index.m3u8
@@ -49,7 +49,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png", TV Publica
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://www.caminandobaires.com.ar/wp-content/uploads/2017/10/Canal-de-la-Ciudad-LOGO.png", Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://i.imgur.com/TLM592m.png", Unife TV
@@ -58,7 +58,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png", Metro
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="General/Abierta", GarageTV
+#EXTINF:-1   tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="General/Abierta", GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo Internacional 
@@ -72,13 +72,13 @@ http://138.59.227.20:8000/play/a099/index.m3u8
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes", TyC Sports
+#EXTINF:-1   tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="Deportes", TyC Sports
 http://138.59.227.20:8000/play/a06x/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="Deportes", FOX Sports
+#EXTINF:-1   tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="Deportes", FOX Sports
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png" group-title="Deportes", TNT Sports
+#EXTINF:-1   tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="Deportes", TNT Sports
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 # España
