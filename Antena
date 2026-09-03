@@ -48,7 +48,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9b
-http:/45.226.28.9:8085/Live/84b5013a7449d7ad59cc0084564582d8/local-canal9_720.m3u8
+http://45.226.28.9:8085/Live/84b5013a7449d7ad59cc0084564582d8/local-canal9_720.m3u8
 
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/kezveb.png", TV Publica
 http://181.209.38.115:8000/play/a00q/index.m3u8
