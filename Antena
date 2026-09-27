@@ -15,7 +15,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-http://138.59.227.20:8000/play/a05w/index.m3u8
+http://181.209.38.115:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -47,7 +47,7 @@ http://181.209.38.115:8000/play/a00p/index.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9 
-https://www.youtube.com/watch?v=e4VpCP8KWLY
+http://181.209.38.115:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png", TV Publica
 http://181.209.38.115:8000/play/a00q/index.m3u8
@@ -78,13 +78,13 @@ http://181.209.38.115:8000/play/a00b/index.m3u8
 http://181.209.38.115:8000/play/a00f/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes", TyC Sports
-http://138.59.227.20:8000/play/a06x/index.m3u8
+http://181.209.38.115:8000/play/a00k/index.m3u8
 
 #EXTINF:-1   tvg-logo="="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg" group-title="Deportes", FOX Sports
-http://iptvpremium.ink:55577/juscsl54/748596js/167227
+http://181.209.38.115:8000/play/a00g/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes", TNT Sports
-http://138.59.227.20:8000/play/a06z/index.m3u8
+http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"group-title="Deportes":http-referrer="":http-user-agent="",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
@@ -92,13 +92,16 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 # España
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="España", Galicia TV
-http://138.59.227.20:8000/play/a06v/index.m3u8
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="España", TVE
 http://200.229.147.210:9999/play/a07h/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
 http://200.229.147.210:9999/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="España", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 # Entretenimiento
 
