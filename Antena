@@ -101,7 +101,7 @@ http://200.229.147.210:9999/play/a07h/index.m3u8
 http://200.229.147.210:9999/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="España", 24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 # Entretenimiento
 
