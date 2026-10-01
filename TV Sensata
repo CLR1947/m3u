@@ -104,7 +104,7 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 http://181.224.255.210:8001/play/a0q9/index.m3u8?hls
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
-http://45.182.22.53:8000/play/a07b/index.m3u8
+http://190.108.91.206:9050/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="España", 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -114,6 +114,9 @@ https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/el-pais-logo-png_seeklogo-46513.png" group-title="España", El Pais
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51JUleZptpL.png" group-title="España", Cocina España
+http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/316458.m3u
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="España", Andalucia Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
