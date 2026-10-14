@@ -1,110 +1,140 @@
-#EXTM3U url- TV Casa
-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
+#EXTM3U - TV Casa
 
 # Noticias
 
-#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24
-https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png" group-title="Noticias", A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png", Canal 26
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2VbfMT0Bmz8/sddefault.jpg" group-title="Noticias", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="Noticias", TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-http://138.59.227.20:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +Perfil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias", Crónica TV
+http://190.128.214.97:64333/play/a010/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png" group-title="Noticias", +Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="LN+" group-title="Noticias" tvg-logo="https://w7.pngwing.com/pngs/168/7/png-transparent-la-nacion-hd-logo-thumbnail.png", LN+
 http://138.59.227.20:8000/play/a05y/index.m3u8
 
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png", C5N
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" group-title="Noticias", C5N
+http://poseidon.nezqsxdppo.top:8080/3091771851898/600214d1f92f/9989
 
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/IPNoticias_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230821192843" group-title="Noticias", IP Noticias
+https://www.youtube.com/watch?v=21UP3XoRIBU
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" tvg-id="ElDestape.ar" group-title="Noticias", El Destape 
+https://www.youtube.com/watch?v=ljk0d-YHa_0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 # General
 
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General/Abierta", Telefe
+http://45.173.231.22:8000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png", El Trece
-http://138.59.227.20:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="General/Abierta", CANAL 13
+http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/81266.m3u
 
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9 
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="General/Abierta", Canal 9 
+http://138.59.227.20:8000/play/a08k/index.m3u8 
 
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="General/Abierta", TV Publica
+http://nn.nnyx4k.com:8444/ECPC20000413/1335f76da5a8/157586
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png", TV Publica
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png" group-title="General/Abierta", América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://www.caminandobaires.com.ar/wp-content/uploads/2017/10/Canal-de-la-Ciudad-LOGO.pngg", Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="General/Abierta", Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8
 
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://i.imgur.com/TLM592m.png", Unife TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="General/Abierta", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png", Metro
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="General/Abierta", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="General/Abierta", GarageTV
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" group-title="General/Abierta", Argentinisima Satelital 
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo Internacional 
-http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="General/Abierta", Metro
+http://138.59.227.20:8000/play/a06l/index.m3u8
 
 # Deportes
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/60/40/0/0/71306601073189.png" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN
 http://138.59.227.20:8000/play/a099/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
-http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
+http://190.128.214.97:64333/play/a02i/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes", TyC Sports
-http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png/revision/latest/scale-to-width-down/1000?cb=20200711033423" group-title="Deportes", TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="Deportes", FOX Sports
-http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg" group-title="Deportes", FOX Sports
+http://158.172.155.130:8000/play/a09x/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png" group-title="Deportes", TNT Sports
-http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes", TNT Sports
+https://gotv.vip:443/Federico2890/Federico2890/146030.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes", DTV
+http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Deportes", DAZN F1
+http://mag.vipsclient.org/live/363631/953650/367867.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes", FIFA+ Hispanic America
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 # España
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="España", Galicia TV
-http://138.59.227.20:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="España", Galicia TV
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="España", TVE
-http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="España", TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
-http://dalive.site:8080/live/ZONATV19334/8WZUC6pcu2/138499.ts
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/antena-3-logo-png_seeklogo-511617.png" group-title="España", Antena 3
+http://190.108.91.206:9050/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.heraldo.es/files/image_1280_720/uploads/imagenes/2022/09/14/24h.jpeg" group-title="España", 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/n/1495906/?w=1600" group-title="España", Ciudadanos por el mundo
+https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/el-pais-logo-png_seeklogo-46513.png" group-title="España", El Pais
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51JUleZptpL.png" group-title="España", Cocina España
+http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/316458.m3u
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="España", Andalucia Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 # Entretenimiento
 
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" group-title="Entretenimiento", El Gourmet
-http://138.59.227.20:8000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/iqx1h4.png" group-title="Entretenimiento", Canal 9 Multivisión
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Entretenimiento" tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" , Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" group-title="Entretenimiento", El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Entretenimiento", Cumbia Argentina
-https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="Entretenimiento", GarageTV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="0967" tvg-name="El Rincón de los Simpsons" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png", El Rincón de los Simpsons
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1920px-Cartoon_Network_HD_logo.svg.png", Cartoon_Network
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Entretenimiento", Telemundo Internacional (1080p)
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png" group-title="Entretenimiento", El Rincón de los Simpsons
 https://live20.bozztv.com/giatvplayout7/giatv-211492/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Entretenimiento" tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" , Argentinisima Satelital 
-https://stream1.sersat.com/hls/argentinisima.m3u8
