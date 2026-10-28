@@ -21,7 +21,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 http://elpapanatas.space:8080/California2/Elsalvador2/1974
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" group-title="Noticias", C5N
-http://elpapanatas.space:8080/California2/Elsalvador2/1103
+http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pagina12.com.ar" group-title="Noticias", Argentina 12
 https://www.youtube.com/c/IPNoticiasEnVivo/live
