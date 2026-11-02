@@ -3,13 +3,13 @@
 # Noticias
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png" group-title="Noticias", A24
-https://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712701.ts
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2VbfMT0Bmz8/sddefault.jpg" group-title="Noticias", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="Noticias", TN
-http://tvprem.pro:8080/Yefri2023/Yefri2023/334383
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias", Crónica TV
 http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/81268.m3u
@@ -18,7 +18,7 @@ http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/81268.m3u
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/168/7/png-transparent-la-nacion-hd-logo-thumbnail.png" group-title="Noticias", LN+
-http://elpapanatas.space:8080/California2/Elsalvador2/1974
+http://138.59.227.20:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" group-title="Noticias", C5N
 http://138.59.227.20:8000/play/a05v/index.m3u8
@@ -73,7 +73,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
-http://190.128.214.97:64333/play/a02i/index.m3u8
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png/revision/latest/scale-to-width-down/1000?cb=20200711033423" group-title="Deportes", TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
