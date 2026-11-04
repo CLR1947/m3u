@@ -9,7 +9,7 @@ https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="Noticias", TN
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+https://www.youtube.com/watch?v=cb12KmMMDJA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias", Crónica TV
 http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/81268.m3u
@@ -18,10 +18,10 @@ http://streamingtv.vip:8080/live/FloG/6bZbebSYJrwz/81268.m3u
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/168/7/png-transparent-la-nacion-hd-logo-thumbnail.png" group-title="Noticias", LN+
-http://138.59.227.20:8000/play/a05y/index.m3u8
+https://www.youtube.com/watch?v=FEWZjXJ7M0c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" group-title="Noticias", C5N
-http://138.59.227.20:8000/play/a05v/index.m3u8
+https://www.youtube.com/watch?v=rZtTUCxpPuI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/IPNoticias_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230821192843" group-title="Noticias", Argentina 12
 https://www.youtube.com/c/IPNoticiasEnVivo/live
@@ -38,7 +38,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 # General
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General/Abierta", Telefe
-https://gotv.vip:443/Federico2890/Federico2890/29642.ts
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="General/Abierta", El Trece 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
