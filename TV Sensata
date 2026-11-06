@@ -38,7 +38,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 # General
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General/Abierta", Telefe
-https://www.mitelefe.com/telefe-en-vivo
+https://telefe.argtelemax.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="General/Abierta", El Trece 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
